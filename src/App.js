@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Products from './Components/Products';
 import 'bootstrap/dist/css/bootstrap.min.css';
